@@ -1,2 +1,2 @@
 # priyodarshini278
-This is my first Git Reository
+This is my first Git Repository
